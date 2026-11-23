@@ -22,7 +22,7 @@ Predict the final class labels using a threshold of 0.5, display the results, an
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: Prasanna I
 RegisterNumber:  212223220079
-*/
+
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -72,6 +72,7 @@ plt.ylabel("Probability of Passing")
 plt.title("Logistic Regression Using Gradient Descent")
 plt.legend()
 plt.show()
+*/
 ```
 
 ## Output:
